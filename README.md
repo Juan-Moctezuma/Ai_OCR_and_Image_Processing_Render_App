@@ -4,7 +4,7 @@
 This Streamlit (platform's name) application uses Ai-powered optical character recognition (OCR) and image processing methods (EasyOCR & Pytesseract algorithms) to extract readable content from uploaded images and convert it into text, and modify the image's colors and patterns using complex mathematical morphology respectively. The app offers multiple options: A) Typed Text - Paper Document, B) Signs - Outdoors, C) Invoice - Paper Store Receipts, D) Official ID - Passport or License, E) Photo - Ai Cartoonizer
 
 ### Presentation GIF
-<img src="GIF/Street_Sign.mp4" width="80%">
+<video src="GIF/Street_Sign.mp4"></video>
 
 <b>Click the following link to open the App (PDF format):</b> https://juan-moctezuma-ai-computervision-imageprocessing.streamlit.app/
 
