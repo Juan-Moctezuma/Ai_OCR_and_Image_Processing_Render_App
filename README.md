@@ -18,5 +18,5 @@ This Streamlit (platform's name) application uses Ai-powered optical character r
    * Machine Learning OCR Methods
    * EMNIST Model Training
    * Python Programming
-   * Shell Scripting Programming (for dependencies' installation and Python downgrade)
+   * Shell Scripting Programming (for dependencies' installation and Python downgrading)
    * Web Development & Application Deployment
