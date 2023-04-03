@@ -16,7 +16,7 @@ st.markdown("### Computer Vision & Machine Learning Application")
 st.markdown("")
 
 # Radio Buttons
-genre = st.radio("The first 4 options of this application read PDF images and extract its " + 
+genre = st.radio("The first 4 options of this application read/recognize characters within a single image and extract its " + 
                  "readable content and convert it into regular text (scroll towards the bottom of " + 
                  "the page after uploading your file). The 5th option modifies the colors of you pictures using " + 
                  "complex mathematical morphology. Printed or typed text is selected by default. " + 
