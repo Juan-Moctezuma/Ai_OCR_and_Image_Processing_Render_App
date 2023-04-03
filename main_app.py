@@ -30,7 +30,7 @@ genre = st.radio("The first 4 options of this application read/recognize charact
      'Photo - Ai Cartoonizer'), index=0)
 
 # Image Uploader
-image = st.file_uploader(label = "Upload your PDF File here", type = ['jpeg','jpg','png'])
+image = st.file_uploader(label = "Upload Your Image File Here", type = ['jpeg','jpg','png'])
 
 # st. cache_resource is the recommended way to cache global resources like ML models or db connections
 #  – unserializable objects that you don't want to load multiple times.
