@@ -5,7 +5,7 @@ This Streamlit (platform's name) application uses Ai-powered optical character r
 
 ### Presentation GIF
 <img src="GIF/Street_Sign.gif" width="80%">
-
+### WARNING: DUE TO MEMORY-RELATED ISSUES FROM STREAMLIT CLOUD PLATFORM - THE APP DOESN'T WORK ON MOBILE DEVICES
 <b>Click the following link to open the App (PDF format):</b> https://juan-moctezuma-ai-computervision-imageprocessing.streamlit.app/
 
 1. Python 3.8 Requirements for Web/Ai App:
