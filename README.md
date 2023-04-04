@@ -29,6 +29,7 @@ This Streamlit (platform's name) application uses Ai-powered optical character r
    * Anuj Sable and Filip Zelic.How to OCR with Tesseract, OpenCV and Python.https://nanonets.com/blog/ocr-with-tesseract/
    * Akshaytheau - Github Repo.Cartoonify using Python.https://github.com/akshaytheau/Data-Science/blob/master/Cartoonify%20using%20python.ipynb
    * David Spalla.Recognizing handwriting with Tensorflow and OpenCV.https://deepnote.com/@davidespalla/Recognizing-handwriting-with-Tensorflow-and-OpenCV-cfc4acf5-188e-4d3b-bdb5-a13aa463d2b0
+   * Data Professor - Streamlit.How to Deploy Your App to Streamlit Community Cloud.https://www.youtube.com/watch?v=HKoOBiAaHGg
    * K0nze builds.How to Install and Run Multiple Python Versions on macOS | pyenv & virtualenv Setup Tutorial.https://www.youtube.com/watch?v=31WU0Dhw4sk 
    * Nicholas Renotte.Optical Character Recognition with EasyOCR and Python | OCR PyTorch.https://www.youtube.com/watch?v=ZVKaWPW9oQY
    * PyImageSearch.Image Processing Archives.https://pyimagesearch.com/category/image-processing/
