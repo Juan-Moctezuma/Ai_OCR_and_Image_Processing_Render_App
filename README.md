@@ -17,7 +17,7 @@ This Streamlit (platform's name) application uses Ai-powered optical character r
    * pytesseract==0.3.10 (OCR/Machine Learning Package)
    * streamlit==1.20.0 (Web Application Framework - Front End)
    
-2. Knowledge required for the completion of this project 
+2. Knowledge required for the completion of this project: 
    * Basic Image Processing (for image manipulation)
    * Machine Learning OCR Methods
    * EMNIST Model Training
