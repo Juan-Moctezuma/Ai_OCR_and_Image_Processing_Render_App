@@ -25,6 +25,12 @@ This Streamlit (platform's name) application uses Ai-powered optical character r
    * Shell Scripting Programming (for dependencies' installation and Python downgrading)
    * Web Development & Application Deployment
    
+### Extra Learning Material
+   * How to train a model to OCR handwriting based on EMNIST dataset? What is the output?: https://github.com/Juan-Moctezuma/Ai_OCR_and_Image_Processing_Render_App/blob/master/EMNIST_Handwritten_Model_Training.ipynb
+   * How to apply image processing techniques and OCR?: https://github.com/Juan-Moctezuma/Ai_OCR_and_Image_Processing_Render_App/blob/master/Image_Processing_%26_OCR_Examples.ipynb
+   * How to use EasyOCR?: https://github.com/Juan-Moctezuma/Ai_OCR_and_Image_Processing_Render_App/blob/master/Optical_Character_Recognition_EasyOCR_Example.ipynb
+   * How to use Pytesseract?: https://github.com/Juan-Moctezuma/Ai_OCR_and_Image_Processing_Render_App/blob/master/Text_Recognition_OCR_Test.ipynb
+
 ### References
    * 1littlecoder.Python Tutorial to build Image to Text App using EasyOCR & Streamlit.https://www.youtube.com/watch?v=j7TH0MRlnGs
    * Anuj Sable and Filip Zelic.How to OCR with Tesseract, OpenCV and Python.https://nanonets.com/blog/ocr-with-tesseract/
