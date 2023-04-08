@@ -21,7 +21,7 @@ This Streamlit (platform's name) application uses Ai-powered optical character r
    * Basic Image Processing (for image manipulation)
    * Machine Learning OCR Methods
    * EMNIST Model Training
-   * Python Programming
+   * Python Programming using Jupyter Notebooks & Visual Studio Code
    * Shell Scripting Programming (for dependencies' installation and Python downgrading)
    * Web Development & Application Deployment
    
